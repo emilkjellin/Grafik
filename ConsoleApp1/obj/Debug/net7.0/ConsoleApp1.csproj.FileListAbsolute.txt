@@ -20,3 +20,5 @@ C:\Users\emil.kjellin\Documents\Programmering 1\grafik test 2\ConsoleApp1\obj\De
 C:\Users\emil.kjellin\Documents\Programmering 1\grafik test 2\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
 C:\Users\emil.kjellin\Documents\Programmering 1\grafik test 2\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\emil.kjellin\Documents\Programmering 1\grafik test 2\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Users\emil.kjellin\Documents\Programmering 1\grafik test 2\ConsoleApp1\bin\Debug\net7.0\BATMAN2.png
+C:\Users\emil.kjellin\Documents\Programmering 1\grafik test 2\ConsoleApp1\bin\Debug\net7.0\BATMAN ATTACK.png
